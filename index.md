@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my makeshift website for this shitty little mod.
+This was started out of a joke between me and my friends and evolved into this... thing.
 
-You can use the [editor on GitHub](https://github.com/cainy-a/CSPurge/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Download the .cfg file!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download the mod!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cainy-a/CSPurge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Note that the map used is an edited version of [this mod](steamcommunity.com/sharedfiles/filedetails/?id=471826766) by [Salkin](steamcommunity.com/id/salkinxd/myworkshopfiles/?appid=730)
